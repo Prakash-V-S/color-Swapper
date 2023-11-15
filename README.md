@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📄 Project Title : [Color Swapper](https://github.com/Prakash-V-S/color-Swapper.git)
+- 📄 Project Title [Color Swapper](https://github.com/Prakash-V-S/color-Swapper.git)
+
+- 👨‍💻Project Demo: [https://prakash-v-s.github.io/color-Swapper/](https://prakash-v-s.github.io/color-Swapper/)
 
 - 🌱 I’m currently learning **MERN in GUVI**
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me abou **HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **prakashvs.official@gmail.com**
 
